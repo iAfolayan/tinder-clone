@@ -1,0 +1,30 @@
+.rating>fieldset.MuiBox-root.MuiBox-root-6.MuiBox-root-2 {
+  font-size: .5rem;
+  margin-bottom: 0 !important;
+}
+
+.MuiRating-root {
+  font-size: 1rem !important;
+}
+
+.searchModal__list {
+  width: 100%;
+  align-items: center;
+}
+.searchModal__listItem {
+  max-height: 70px;
+  margin-top: 10px;
+}
+
+.searchModal__avatar,
+.searchModal__iconButton {
+ margin-top: -35px;
+}
+
+.searchModal__iconButton {
+  margin-top: -20px;
+}
+
+.MuiTypography-root.MuiListItemText-secondary.MuiTypography-body2.MuiTypography-colorTextSecondary.MuiTypography-displayBlock {
+  margin-left: -14px !important;
+}

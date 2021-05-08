@@ -1,0 +1,23 @@
+.message {
+  cursor: pointer;
+}
+
+.message__name {
+  font-weight: 500;
+  color: black;
+}
+
+.message__unread {
+   background-color: #f6f8fb;
+   cursor: pointer;
+}
+
+.message__actionButton {
+  flex: 1;
+  display: flex;
+  color: red;
+}
+
+.message__time {
+  font-size: .5rem
+}
