@@ -17,8 +17,6 @@ export default function DrawableMenu({open}) {
     if (event && event.type === 'keydown' && (event.key === 'Tab' || event.key === 'Shift')) {
       return;
     }
-
-    open = open;
   };
 
   console.log(`>>>PROPS>>>`, open)
